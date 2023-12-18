@@ -40,4 +40,3 @@ El cluster de Kubernetes está alojado en Digital Ocean. Los archivos y configur
 
 3.  Verificación del Despliegue: Se verifica el estado del despliegue utilizando `kubectl rollout status` para asegurar que la actualización se haya completado correctamente.
 
-4.
